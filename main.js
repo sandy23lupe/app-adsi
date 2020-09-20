@@ -1,2 +1,2 @@
-var x =2;
+var  hours =2;
 aler('hello world');
